@@ -1241,10 +1241,10 @@ Wire Notes Line
 Wire Notes Line
 	7200 3550 7200 2550
 $Comp
-L LM1117-5.0 U?
+L LM1117-5.0 U3
 U 1 1 5B9A48BB
 P 7700 4200
-F 0 "U?" H 7550 4325 50  0000 C CNN
+F 0 "U3" H 7550 4325 50  0000 C CNN
 F 1 "LM1117-5.0" H 7700 4325 50  0000 L CNN
 F 2 "" H 7700 4200 50  0001 C CNN
 F 3 "" H 7700 4200 50  0001 C CNN
@@ -1311,6 +1311,6 @@ Wire Notes Line
 	9450 4950 7000 4950
 Wire Notes Line
 	7000 4950 7000 3800
-Text Notes 4700 5800 2    60   ~ 0
-TODO:\nMOSFET MOTOR CONTROL\nIMU?\nSERVO Headers\n
+Text Notes 2250 7900 0    197  ~ 0
+TODO:\nMOSFET MOTOR CONTROL\nIMU?\nBattery holder and conn\nSERVO Headers\ndebugging leds?\nanalog sensor?\nextension connectors for RF/bluetooth module?\n
 $EndSCHEMATC
